@@ -1,0 +1,6 @@
+   METRICAS DE GENERACION PROCEDIMENTAL (CHUNK)   
+Dimensiones evaluadas      : 16 x 16 voxeles
+Limite vertical maximo     : 32 niveles
+Muestra total de bloques   : 2800 bloques solidos
+Iteraciones de control     : 10 corridas de CPU
+Tiempo promedio por chunk  : 0.0265774 ms
